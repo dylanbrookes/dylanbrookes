@@ -1,4 +1,4 @@
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+<img src="https://github.com/dylanbrookes/dylanbrookes/blob/main/github-metrics.svg" alt=""></img>
 <img src="./space.gif" width="1090px"/>
 
 ## 🛠️ My Tools
