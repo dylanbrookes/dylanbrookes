@@ -4,7 +4,7 @@
     <td><b style="font-size:30px">🛠️ My Tools</b></td>
  </tr>
  <tr>
-    <td width="500px"><img src="https://github.com/dylanbrookes/dylanbrookes/blob/main/github-metrics.svg" alt=""></img></td>
+    <td width="500px">  <img src="https://komarev.com/ghpvc/?username=dylanbrookes"/><img src="https://github.com/dylanbrookes/dylanbrookes/blob/main/github-metrics.svg" alt=""/></td>
     <td width="500px">
 <img src="https://img.shields.io/badge/Mac_OS-MacOS?style=flat&logo=macos&logoColor=white&color=black"/>
 <img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black"/>
@@ -23,7 +23,11 @@
  </tr>
 </table>
 
-
+### Random Joke 😎
+<img src="https://readme-jokes.vercel.app/api"/>
+ 
+<!-- ### Repository View Counter - HITS -->
+<!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python) -->
 
 
 
