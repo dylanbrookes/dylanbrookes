@@ -25,11 +25,5 @@
 
 ### Random Joke 😎
 <img src="https://readme-jokes.vercel.app/api"/>
- 
 <!-- ### Repository View Counter - HITS -->
 <!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python) -->
-
-
-
-
-
